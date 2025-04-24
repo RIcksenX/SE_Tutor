@@ -2,7 +2,9 @@ desc:
 Mempetakan polusi air berdasarkan hasil AI yang diinput menggunakan kamera smartphone dan disimpan di database, serta user dapat melihat history log dari daerah tersebut
 
 Fitur:
-Memetakan kualitas air di berbagai wilayah
+- Memetakan kualitas air di berbagai wilayah.
+- Memprediksi kualitas air dari foto menggunakan AI.
+- Menotifikasi pengguna akan kualitas air yang buruk di area sekitar.
 
 Anggota:
 •	2702322853	Evan F Hartono
